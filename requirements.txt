@@ -1,6 +1,22 @@
+#frontend
 streamlit
+
+#agentic ai
 python-dotenv
 langchain
 langchain-core
 langchain-community
-langchain_google_genai
+langchain-google-genai
+langgraph
+langchain-groq
+langgraph-checkpoint-sqlite
+tavily-python  #websearch-tool
+
+#embedding model
+langchain-huggingface 
+sentence-transformers
+
+#rag setup
+langchain-text-splitters
+pypdf
+faiss-cpu
